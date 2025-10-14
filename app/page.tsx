@@ -1,16 +1,23 @@
-import Header from "@/Components/header";
-import Search from "@/Components/FilterForm";
+import Header from "@/components/header";
+import Search from "@/components/FilterForm";
+import Offres from "@/components/offres";
 
 export default function Home() {
   return (
 
     <div >
-        <section className=" w-full">
+      {/*Navbar*/}
+        <section className=" w-full ">
             <Header />
         </section>
-        <div className="overflow-x-hidden h-screen mx-auto w-[100%] max-w-[1200px] p-4 py-20">
-            <section className="min-h-[720px]">
+        <div className="overflow-x-hidden overflow-y-scroll scrollbar-hide h-screen mx-auto w-[100%] max-w-[1200px] p-4 pt-20   ">
+          {/*Formulaire de recherche */}
+            <section className="">
                 <Search />
+            </section>
+            {/* Offres de Ausbildung */}
+            <section className=" mt-[00px] stick">
+              <Offres />
             </section>
         </div>
 

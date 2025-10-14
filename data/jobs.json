@@ -56,7 +56,7 @@
     "salary": 950,
     "durationYears": 2,
     "startDate": "2024-11-01",
-    "status": "Actif",
+    "status": "Inactif",
     "description": "Gestion des réseaux sociaux, création de visuels et suivi des performances des publications."
   },
   {
@@ -116,7 +116,7 @@
     "salary": 1250,
     "durationYears": 3,
     "startDate": "2025-01-10",
-    "status": "Actif",
+    "status": "Inactif",
     "description": "Développement d’interfaces modernes en React et intégration d’APIs REST."
   },
   {
@@ -176,7 +176,7 @@
     "salary": 1150,
     "durationYears": 3,
     "startDate": "2024-09-10",
-    "status": "Actif",
+    "status": "Inactif",
     "description": "Participation aux dessins techniques, modélisations 3D et rendus visuels."
   }
 ]

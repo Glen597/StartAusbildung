@@ -22,7 +22,9 @@
     "recherche": "Recherche",
     "lieu": "Lieu",
     "secteur": "Secteur",
-    "salaire": "Salaire minimum (€)"
+    "salaire": "Salaire minimum (€)",
+    "sélection":"Sélectionnez une offre",
+    "texteSélection":"Cliquez sur une offre d'Ausbildung pour voir les détails complets"
   },
   "secteurs":{
   "tous":"Tous secteurs",

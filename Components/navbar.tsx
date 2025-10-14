@@ -22,8 +22,8 @@ const Navbar = () =>{
                  {/* Buttons*/}
                 <div className="flex items-center gap-[10px]  font-semibold ml-[100px]  justify-end-safe">
                     <Bell />
-                    <button className="bg-blue-600 text-white  h-[29px] w-[90px] rounded-md mt-[-1px] text-[10px] ">{t('connexion')}</button>
-                    <button className="bg-[#F3F4F8] text-gray-500 h-[30px] h-[30px] w-[70px] rounded-md mt-[-1px] text-[11px]">{t('Inscription')}</button>
+                    <button className="bg-blue-600 text-white  h-[29px] w-[90px] rounded-md mt-[-1px] text-[13px] ">{t('connexion')}</button>
+                    <button className="bg-[#F3F4F8] text-gray-500 h-[30px] h-[30px] w-[70px] rounded-md mt-[-1px] text-[13px]">{t('Inscription')}</button>
                 </div>
             </nav>
             
