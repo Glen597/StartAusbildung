@@ -45,7 +45,7 @@ const OffreCard = ({offre}: OffreCardProps)=>{
         return(
         <div>
         
-            <Card className="bg-white w-180 h-80 border  border-gray-300 rounded-[11px] font-medium text-gray-500 mt-[10px] flex flex-col justify-around ">
+            <Card className="bg-white w-180 h-80 border  border-gray-300 rounded-[11px] font-medium text-gray-500 mt-[10px] flex flex-col justify-around">
                 <CardHeader>
                     <div className="flex justify-between">
                           <CardTitle className="font-semibold text-black">{offre.title}</CardTitle>

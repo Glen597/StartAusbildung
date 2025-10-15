@@ -66,7 +66,7 @@ const SearchForm = () => {
         <p className="w-150 font-medium text-gray-500">{t('texte')}</p>
       </div>
 
-      <Card className="flex flex-col bg-white h-[180px] border border-gray-300 rounded-[11px] justify-between pt-[50px] pb-[10px]  sticky  top-[5px]">
+      <Card className="flex flex-col bg-white h-[180px] border border-gray-300 rounded-[11px] justify-between pt-[50px] pb-[10px]  sticky  top-[80px]">
         {/* ✅ onSubmit ici */}
         <form id="filter" onSubmit={onSubmit} className="flex items-center justify-around ">
           <label className="flex flex-col text-gray-600 font-semibold ">

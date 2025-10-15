@@ -10,13 +10,13 @@ export default function Home() {
         <section className=" w-full ">
             <Header />
         </section>
-        <div className="overflow-x-hidden overflow-y-scroll scrollbar-hide h-screen mx-auto w-[100%] max-w-[1200px] p-4 pt-20   ">
+        <div className="  mx-auto w-[100%] max-w-[1200px] p-4 pt-20   ">
           {/*Formulaire de recherche */}
             <section className="">
                 <Search />
             </section>
             {/* Offres de Ausbildung */}
-            <section className=" mt-[00px] stick">
+            <section className=" ">
               <Offres />
             </section>
         </div>

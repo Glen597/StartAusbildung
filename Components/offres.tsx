@@ -60,7 +60,7 @@ const handlevoirPlus = ()=>{
           </div>
         )}
             </div>
-            <div className="bg-white w-[400px] h-[150px] flex flex-col items-start border  border-gray-300 rounded-[11px] font-medium text-gray-500  sticky  top-[5px]">
+            <div className="bg-white w-[400px] h-[150px] flex flex-col items-start border  border-gray-300 rounded-[11px] font-medium text-gray-500  sticky  top-[80px]">
                 <p className=" pl-[30px] pt-[30px] font-semibold text-gray-600">{t('sélection')}</p>
                 <p className="pl-[30px] pt-[20px]">{t('texteSélection')}</p>
 
