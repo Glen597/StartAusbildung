@@ -101,5 +101,31 @@
   "Werbung": "Publicité",
   "Wirtschaftswissenschaften": "Sciences économiques"
 
+  },
+  "footer":{
+    "ausbildung":"Startausbildung",
+    "navigation":"Navigation",
+    "ressources":"Ressources",
+    "contact":"Contact",
+    "motivation":"La plateforme de référence pour trouver \nvotre Ausbildung idéale en Allemagne.\n Connectons les talents avec les meilleures \nopportunités.",
+    "offres":"Offres de Ausbildung",
+    "partenaires":"Entreprises partenaires",
+    "conseils":"Conseils & Guides",
+    "about":"À Propos",
+    "adresse":"Alexanderplatz 1 \n10178 Berlin, Allemagne",
+    "nummer":"+49 30 12345678",
+    "email":"contact@ausbildungportal.de",
+    "nouvelles":"Restez informé des nouvelles offres",
+    "inscription":"Inscrivez-vous à notre newsletter pour recevoir les dernières opportunités d'Ausbildung",
+    "abonnement":"S'abonner",
+    "droits":"© 2025 AusbildungPortal. Tous droits réservés.",
+    "légale":"Mentions légales",
+    "sécurité":"Politique de confidentialité",
+    "condition":"Conditions d'utilisation",
+    "cookies":"Cookies",
+    "FAQ":"FAQ",
+    "aide":"Centre d'aide",
+    "testimonies":"Témoignages",
+    "stat":"Statistiques"
   }
 }

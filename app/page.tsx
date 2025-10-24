@@ -1,6 +1,7 @@
-import Header from "@/components/header";
-import Search from "@/components/FilterForm";
-import Offres from "@/components/offres";
+import Header from "@/Components/header";
+import Search from "@/Components/FilterForm";
+import Offres from "@/Components/offres";
+import Footer from "@/Components/footer";
 
 export default function Home() {
   return (
@@ -20,6 +21,9 @@ export default function Home() {
               <Offres />
             </section>
         </div>
+           <section className="h-[400px] bg-[#111827]">
+              <Footer/>
+            </section>
 
 
 
