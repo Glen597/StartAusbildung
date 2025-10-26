@@ -29,18 +29,18 @@ const Footer = ()=>{
                     <p className="text-white font-bold">{t('navigation')}</p>
                     <div className="flex flex-col gap-[15px]">
                         <button className="text-gray-500 " type="button" onClick={() => router.push('/app')}>{t('offres')}</button>
-                           <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/entreprises')}>{t('partenaires')}</button>
-                              <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/Conseils')}>{t('conseils')}</button>
-                                 <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/About')}>{t('about')}</button>
+                           <button className="text-gray-500 " type="button" onClick={() => router.push('/entreprises')}>{t('partenaires')}</button>
+                              <button className="text-gray-500 " type="button" onClick={() => router.push('/conseils')}>{t('conseils')}</button>
+                                 <button className="text-gray-500 " type="button" onClick={() => router.push('/about')}>{t('about')}</button>
                     </div>
                  </div>
                  <div className="flex flex-col items-center gap-[5px]">
                     <p className="text-white font-bold">{t('ressources')}</p>
                       <div className="flex flex-col gap-[15px]">
                         <button className="text-gray-500 " type="button" onClick={() => router.push('/app')}>{t('FAQ')}</button>
-                           <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/About')}>{t('aide')}</button>
-                              <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/About')}>{t('testimonies')}</button>
-                                 <button className="text-gray-500 " type="button" onClick={() => router.push('/app/pages/About')}>{t('stat')}</button>
+                           <button className="text-gray-500 " type="button" onClick={() => router.push('/about')}>{t('aide')}</button>
+                              <button className="text-gray-500 " type="button" onClick={() => router.push('/about')}>{t('testimonies')}</button>
+                                 <button className="text-gray-500 " type="button" onClick={() => router.push('/about')}>{t('stat')}</button>
                     </div>
                  </div>
                  <div className="flex flex-col  justify-start gap-[10px] ">

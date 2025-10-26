@@ -4,6 +4,8 @@ import "./globals.css";
 import {NextIntlClientProvider} from 'next-intl';
 import { config } from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
+import Header from "@/Components/header";
+import Footer from "@/Components/footer";
 config.autoAddCss = false
 
 
@@ -32,8 +34,18 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased scrollbar-hide `}
       >
+        <NextIntlClientProvider locale="fr">
+     <section className=" w-full ">
+            <Header />
+        </section>
       <NextIntlClientProvider >{children}</NextIntlClientProvider>
+       <section className="h-[400px] bg-[#111827]">
+              <Footer/>
+            </section>
+            </NextIntlClientProvider>
       </body>
     </html>
   );
 }
+
+
