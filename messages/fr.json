@@ -16,7 +16,8 @@
     "Ville": "Ville, région...",
     "salaire": "Salaire min (€)",
     "reset":"Réinitialiser les filtres",
-    "texte":"Salaire: 0 - 2000 €"
+    "texte":"Salaire: 0 - 2000 €",
+    "recherche":"Rechercher une entreprise, ville..."
   },
   "titres": {
     "recherche": "Recherche",
@@ -27,7 +28,7 @@
     "texteSélection":"Cliquez sur une offre d'Ausbildung pour voir les détails complets"
   },
   "secteurs":{
-  "tous":"Tous secteurs",
+  "tous":"Tous les secteurs",
   "Abfallwirtschaft": "Gestion des déchets",
   "Agrarwesen": "Agriculture",
   "Architektur": "Architecture",
@@ -127,5 +128,9 @@
     "aide":"Centre d'aide",
     "testimonies":"Témoignages",
     "stat":"Statistiques"
+  },
+  "entreprise":{
+    "en-tête":"Nos Entreprises Partenaires",
+    "texte":"Découvrez les entreprises qui proposent des formations en Ausbildung. Des Startup \n innovantes aux grandes corporations, trouvez l'environnement qui vous correspond."
   }
 }

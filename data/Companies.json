@@ -1,0 +1,145 @@
+[
+ {
+    "id": "1",
+    "company": "KreativHaus",
+    "city": "Munich",
+    "sector": "Design",
+    "employee": "(51-250)",
+    "webpage": "www.KreativHaus.com",
+    "contact": "+49 3098765432",
+    "mail":"KreativHaus@gmail.com",
+    "description": "Entreprise innovante spécialisée dans le développement d'applications web et mobiles. Forte culture d'apprentissage et d'innovation."
+  },
+  {
+    "id": "2",
+    "company": "TechWerk Solutions",
+    "city": "Berlin, 10178",
+    "sector": "Informatique",
+    "employee": "(251-1000)",
+    "webpage": "www.TechWerk.de",
+    "contact": "+49 3023456789",
+     "mail":"Solutions@gmail.com",
+    "description": "Société de conseil en technologies de l'information, experte en intelligence artificielle, cloud computing et cybersécurité."
+  },
+  {
+    "id": "3",
+    "company": "BioVita GmbH",
+    "city": "Hambourg",
+    "sector": "Biotechnologie",
+    "employee": "(11-50)",
+    "webpage": "www.BioVita.de",
+    "contact": "+49 4045678901",
+     "mail":"BioVita@gmail.com",
+    "description": "Entreprise axée sur la recherche et le développement de solutions médicales et biologiques durables."
+  },
+  {
+    "id": "4",
+    "company": "TechNova AG",
+    "city": "Berlin",
+    "sector": "Technologie",
+    "employee": "(51-200)",
+    "webpage": "www.technova.de",
+    "contact": "+49 30 23456789",
+    "mail": "contact@technova.de",
+    "description": "Solutions logicielles cloud et plateformes de données pour les entreprises en croissance."
+  },
+  {
+    "id": "5",
+    "company": "FinWerk Solutions",
+    "city": "Francfort",
+    "sector": "FinTech",
+    "employee": "(11-50)",
+    "webpage": "www.finwerk.de",
+    "contact": "+49 69 245678910",
+    "mail": "hello@finwerk.de",
+    "description": "Outils de paiement et d’analytics financiers pour PME et institutions."
+  },
+  {
+    "id": "6",
+    "company": "AutoMotion GmbH",
+    "city": "Stuttgart",
+    "sector": "Automobile",
+    "employee": "(201-500)",
+    "webpage": "www.automotion.de",
+    "contact": "+49 711 3456789",
+    "mail": "info@automotion.de",
+    "description": "Ingénierie de systèmes embarqués et composants pour véhicules électriques."
+  },
+  {
+    "id": "7",
+    "company": "MediCarex GmbH",
+    "city": "Munich",
+    "sector": "Santé",
+    "employee": "(51-200)",
+    "webpage": "www.medicarex.de",
+    "contact": "+49 89 56789012",
+    "mail": "contact@medicarex.de",
+    "description": "Dispositifs médicaux connectés et logiciels de télésuivi des patients."
+  },
+  {
+    "id": "8",
+    "company": "GreenSpark Energie",
+    "city": "Cologne",
+    "sector": "Énergies renouvelables",
+    "employee": "(11-50)",
+    "webpage": "www.greenspark.de",
+    "contact": "+49 221 2345678",
+    "mail": "team@greenspark.de",
+    "description": "Projets solaires et solutions de stockage d’énergie pour entreprises."
+  },
+  {
+    "id": "9",
+    "company": "CargoLink Logistik",
+    "city": "Düsseldorf",
+    "sector": "Logistique",
+    "employee": "(51-200)",
+    "webpage": "www.cargolink.de",
+    "contact": "+49 211 3456789",
+    "mail": "service@cargolink.de",
+    "description": "Chaîne logistique intelligente, suivi temps réel et optimisation des flux."
+  },
+  {
+    "id": "10",
+    "company": "NeuroByte AI",
+    "city": "Leipzig",
+    "sector": "Intelligence artificielle",
+    "employee": "(11-50)",
+    "webpage": "www.neurobyte.ai",
+    "contact": "+49 341 2233445",
+    "mail": "contact@neurobyte.ai",
+    "description": "Modèles IA sur mesure pour la vision par ordinateur et le NLP industriels."
+  },
+  {
+    "id": "11",
+    "company": "ShieldSec GmbH",
+    "city": "Hanovre",
+    "sector": "Cybersécurité",
+    "employee": "(51-200)",
+    "webpage": "www.shieldsec.de",
+    "contact": "+49 511 3344556",
+    "mail": "hello@shieldsec.de",
+    "description": "Protection des infrastructures cloud, SOC managé et audits de sécurité."
+  },
+  {
+    "id": "12",
+    "company": "ShopSphere GmbH",
+    "city": "Nuremberg",
+    "sector": "E-commerce",
+    "employee": "(11-50)",
+    "webpage": "www.shopsphere.de",
+    "contact": "+49 911 2233557",
+    "mail": "support@shopsphere.de",
+    "description": "Plateforme e-commerce headless et outils de personnalisation omnicanale."
+  },
+  {
+    "id": "13",
+    "company": "EduNext Labs",
+    "city": "Dresde",
+    "sector": "Éducation et technologie",
+    "employee": "(1-10)",
+    "webpage": "www.edunextlabs.de",
+    "contact": "+49 351 6677889",
+    "mail": "info@edunextlabs.de",
+    "description": "Contenus interactifs et LMS pour formations universitaires et professionnelles."
+  }
+]

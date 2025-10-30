@@ -39,7 +39,7 @@ export default function RootLayout({
             <Header />
         </section>
       <NextIntlClientProvider >{children}</NextIntlClientProvider>
-       <section className="h-[400px] bg-[#111827]">
+       <section className="h-[210px] bg-[#111827]">
               <Footer/>
             </section>
             </NextIntlClientProvider>

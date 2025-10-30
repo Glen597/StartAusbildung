@@ -10,7 +10,7 @@ const Footer = ()=>{
     return(
        
         <div className=" flex flex-col text-xs">
-            <div className="flex items-center justify-around  py-[20px]  ">
+            <div className="flex items-center justify-around  py-[20px] border-b border-gray-500    ">
                  <div className="flex flex-col items-center">
                     <p className="text-white font-bold">{t('ausbildung')}</p>
                     <div className="flex text-gray-500  whitespace-pre-line mt-[10px] flex-col">
@@ -50,32 +50,6 @@ const Footer = ()=>{
                      <p className="text-gray-500 flex gap-[5px] "><Phone />{t('email')}</p>
                     
                  </div>
-            </div>
-            <div className="flex flex-col border-b border-t border-gray-500 items-center gap-[15px] w-[1500px] w-1/2 mx-auto py-[20px]">
-                <p className="text-white font-bold">{t('nouvelles')}</p>
-                <p className="text-gray-500">{t('inscription')}</p>
-                <form className="text-gray-400"
-                onSubmit={(e: React.FormEvent<HTMLFormElement>)=>{
-                    e.preventDefault(); // Empêche que la page se recharge
-                   // On récupère le formulaire typé
-                const form = e.currentTarget;
-                const formData = new FormData(form);
-    // Récupère la valeur de l'input 'email'
-    const email = formData.get('email') as string;
-    console.log('Nouvel email reçu :', email);
-                }}>
-                    <input
-                    className="bg-[#1F2937] w-[250px] h-[35px] rounded-lg  border border-gray-500 px-3"
-                    id="email"
-                    name="email"
-                    type="email"
-                    placeholder="    Email"
-                    required />
-                      <button 
-                      type="submit"
-                       className="bg-blue-600 text-white  h-[35px] w-[90px] rounded-md ml-[5px] text-[13px] ">{t('abonnement')}</button>
-                </form>
-           
             </div>
             <div className="text-gray-500 flex justify-around pt-[10px]">
                 <p>{t('droits')}</p>

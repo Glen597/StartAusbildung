@@ -1,17 +1,14 @@
 'use client'
 
 import React from "react"
-import jobs from "@/data/jobs.json"
-import { offresArraySchema } from "@/offresSchema"
-import { useSearchParams } from "next/navigation"
+
+
 import { Building2, Euro, MapPin } from 'lucide-react';
 import { Clock4 } from 'lucide-react';
 import { Calendar } from 'lucide-react';
 import { ChevronRight } from 'lucide-react';
 import {
   Card,
-  CardAction,
-  CardContent,
   CardDescription,
   CardFooter,
   CardHeader,
